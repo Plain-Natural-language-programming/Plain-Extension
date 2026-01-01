@@ -1,9 +1,10 @@
 {
   "name": "plain-language-icons",
-  "publisher": "local",
+  "publisher": "OuadieLaachkar",
   "displayName": "Plain Language Theme + Syntax",
   "description": "Candy color theme and syntax highlighting for Plain language (.pln) files",
-  "version": "0.1.0",
+  "icon": "icon.png",
+  "version": "0.1.2",
   "scripts": {
     "build:vsix": "npx vsce package"
   },
